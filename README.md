@@ -1,2 +1,2 @@
-# my-notes
+# My Notes
 Just a collection of notes in markdown format I want to share with the world
